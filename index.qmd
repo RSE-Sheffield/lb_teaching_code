@@ -1,0 +1,28 @@
+---
+title: "LunchBytes Panel: Teaching Code"
+format:
+  revealjs: 
+    theme: [white, custom.scss]
+---
+
+## Introductions
+
+- Bob Turner
+- Emma Norling
+- Shangshang Gu
+- Ashley Cadby
+- Norbert Gyenge
+
+## How do you teach code e.g. lectures, live-coding, lab classes? What works well for you?
+
+## Is there a difference between “teaching” and “training” in this context?
+
+## When is the best time in a career to start learning to code?
+
+## I’m a new (student / researcher / lecturer / professor). How do I start learning to code?
+
+## Is writing code an essential skill for quantitative researchers? What are the implications for teaching / training?
+
+## What tips do you have to help others teach better?
+
+## Can the way we train people to code help make software engineering more inclusive and diverse?
